@@ -11,7 +11,7 @@ echo "The length of the string : " . strlen($name);
 
 echo "<br>";
 echo str_word_count($name); // count the no. of words
-
+    
 echo "<br>";
 echo "Reverse the string : ". strrev($name); // reverse the string 
 
@@ -36,4 +36,12 @@ echo "<pre>";
 echo ltrim("     remove left tailing spaces       ");
 echo "</pre>";
 
+
+// another method of  creating string
+
+$input = <<<testHeredoc
+Welcome to world of php.
+Hello world.
+testHeredoc;
+echo "\n".$input;
 ?>

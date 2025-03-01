@@ -26,4 +26,15 @@ echo "<ul>
 $var = 2; echo"variable is $var";
 // $var% = 2; echo"variable is $var%"; // special character not allowed
 
+    // static variable 
+
+    function name(){
+        // static $count = 0;
+        $count = 0;
+        $count ++;
+        echo "\n".$count."\n";
+    }
+
+    name();
+    name();
 ?>
