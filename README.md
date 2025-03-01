@@ -1,6 +1,8 @@
 ## php (hypertext preprocessor)
 # PHP Programs
 
+# some changes may be seen in few months
+
 ## Overview
 This repository contains various PHP programs that I have learned and implemented. These programs cover different aspects of PHP, including basic syntax, file handling, database connections, and web development concepts(in future) aso some advance topics like superglobals.
 
@@ -26,11 +28,11 @@ The repository includes programs on:
 - Basic PHP syntax and variables
 - Conditional statements and loops
 - Functions and arrays
-- File handling (reading/writing files)
-- Form handling and validation
-- Database connectivity using MySQLi/PDO
-- Session management and authentication
-- Object-Oriented Programming (OOP) in PHP
+- File handling (reading/writing files) `added as i learn about`
+- Form handling and validation `added as i learn about`
+- Database connectivity using MySQLi/PDO `added as i learn about`
+- Session management and authentication `added as i learn about`
+- Object-Oriented Programming (OOP) in PHP  `added as i learn about`
 
 ## Database Setup (If Required)
 For programs that use a database:
@@ -48,4 +50,4 @@ Feel free to modify and enhance the programs. If you wish to contribute, create 
 
 ## License
 This project is for educational purposes only. You are free to use and modify the code as needed.
-[licence]()
+[licence](https://github.com/HarshYadav152/php-language/blob/main/LICENSE)
